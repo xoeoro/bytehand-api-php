@@ -4,7 +4,7 @@
     "description": "Sending sms via ByteHand",
     "keywords": ["php", "sms", "bytehand"],
     "homepage": "https://github.com/xoeoro/bytehand-api-php",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
