@@ -1,0 +1,28 @@
+{
+    "name": "xoeoro/bytehand-api-php",
+    "type": "library",
+    "description": "Sending sms via ByteHand",
+    "keywords": ["php", "sms", "bytehand"],
+    "homepage": "https://github.com/xoeoro/bytehand-api-php",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Unknown",
+            "homepage": "https://www.bytehand.com/files/bytehand_php_api.zip",
+            "role": "Developer"
+        },
+        {
+            "name": "Illia Nov",
+            "email": "xoeoro@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require":{
+        "php":">=5.0.0",
+    },
+    "autoload":{
+        "psr-4": { "": "" }
+    },
+	"minimum-stability": "dev"
+}
